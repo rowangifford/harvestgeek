@@ -1,0 +1,158 @@
+PCBNEW-LibModule-V1  10/06/2014 22:37:27
+# encoding utf-8
+Units mm
+$INDEX
+LCD_NHD
+$EndINDEX
+$MODULE LCD_NHD
+Po 0 0 0 15 53977A73 00000000 F~
+Li LCD_NHD
+Sc 0
+AR /51D70DA6
+Op 0 0 0
+T0 -5.4 -4.775 0.8 0.8 0 0.2 N V 21 N "U4"
+T1 -6.7 -6.3 1 1 0 0.15 N V 21 N "LCD_NHD_DISPLAY"
+T2 0 -15.2 1 1 0 0.15 N V 21 N "128x32 DISPLAY"
+DS -16 -11.5 16 -11.5 0.15 21
+DS 16 -11.5 16 -19.5 0.15 21
+DS 16 -19.5 -16 -19.5 0.15 21
+DS -16 -19.5 -16 -11.5 0.15 21
+DS -20.7 0 20.7 0 0.15 21
+DS 20.7 0 20.7 -24.3 0.15 21
+DS 20.7 -24.3 -20.7 -24.3 0.15 21
+DS -20.7 -24.3 -20.7 0 0.15 21
+$PAD
+Sh "1" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 -0.6
+$EndPAD
+$PAD
+Sh "2" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.5 -0.6
+$EndPAD
+$PAD
+Sh "3" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 -0.6
+$EndPAD
+$PAD
+Sh "4" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.5 -0.6
+$EndPAD
+$PAD
+Sh "5" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 -0.6
+$EndPAD
+$PAD
+Sh "6" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4.5 -0.6
+$EndPAD
+$PAD
+Sh "7" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -0.6
+$EndPAD
+$PAD
+Sh "8" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.5 -0.6
+$EndPAD
+$PAD
+Sh "9" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -0.6
+$EndPAD
+$PAD
+Sh "10" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.5 -0.6
+$EndPAD
+$PAD
+Sh "11" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -0.6
+$EndPAD
+$PAD
+Sh "12" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4.5 -0.6
+$EndPAD
+$PAD
+Sh "13" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 -0.6
+$EndPAD
+$PAD
+Sh "14" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.5 -0.6
+$EndPAD
+$PAD
+Sh "15" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -0.6
+$EndPAD
+$PAD
+Sh "16" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.5 -0.6
+$EndPAD
+$PAD
+Sh "A" C 2.5 2.5 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17.3 -2.55
+$EndPAD
+$PAD
+Sh "K" C 2.5 2.5 0 0 0
+Dr 1.5 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17.3 -2.55
+$EndPAD
+$PAD
+Sh "17" C 1.2 1.2 0 0 0
+Dr 0.75 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 -0.6
+$EndPAD
+$EndMODULE LCD_NHD
+$EndLIBRARY

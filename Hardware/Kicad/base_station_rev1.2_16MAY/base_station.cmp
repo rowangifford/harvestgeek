@@ -1,0 +1,605 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 16/05/2015 14:40:14
+
+BeginCmp
+TimeStamp = /51D7862B;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D78631;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D6D56B;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D6D577;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D6D57D;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D6D583;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D6351E;
+Reference = C7;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D6CD22;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D63A4C;
+Reference = C9;
+ValeurCmp = 18pF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D63A52;
+Reference = C10;
+ValeurCmp = 18pF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5F173;
+Reference = C11;
+ValeurCmp = 10uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5F179;
+Reference = C12;
+ValeurCmp = 10nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7135F;
+Reference = C13;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71365;
+Reference = C14;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7136B;
+Reference = C15;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71371;
+Reference = C16;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71377;
+Reference = C17;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7137D;
+Reference = C18;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /5557A783;
+Reference = C19;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5FBB1;
+Reference = C21;
+ValeurCmp = 10uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5FBBD;
+Reference = C22;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5FBC3;
+Reference = C23;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D60099;
+Reference = C24;
+ValeurCmp = 10uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D600A5;
+Reference = C25;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5DE19;
+Reference = C26;
+ValeurCmp = 12pF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5DE4B;
+Reference = C27;
+ValeurCmp = 12pF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D600AB;
+Reference = C28;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D600B1;
+Reference = C29;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5E12B;
+Reference = C30;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D60569;
+Reference = C31;
+ValeurCmp = 10uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D60E99;
+Reference = C32;
+ValeurCmp = 10uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D79AD6;
+Reference = C33;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D60E9F;
+Reference = C34;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D60EA5;
+Reference = C35;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D79ADC;
+Reference = C36;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D60EAB;
+Reference = C37;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D60EB1;
+Reference = C38;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7E03A;
+Reference = C39;
+ValeurCmp = 1uF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D6BADE;
+Reference = C40;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CD352;
+Reference = C41;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CD358;
+Reference = C42;
+ValeurCmp = 100nF;
+IdModule  = BasestationFP:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D623E1;
+Reference = CON1;
+ValeurCmp = USB-MICRO-B;
+IdModule  = BasestationFP:con_microusb_10103594;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D67354;
+Reference = CON2;
+ValeurCmp = AVR-ISP-6;
+IdModule  = BasestationFP:pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5F000;
+Reference = FB1;
+ValeurCmp = FERRITE;
+IdModule  = BasestationFP:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5EB90;
+Reference = FB2;
+ValeurCmp = FERRITE;
+IdModule  = BasestationFP:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7DBE5;
+Reference = FB3;
+ValeurCmp = FERRITE;
+IdModule  = BasestationFP:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5558A479;
+Reference = FID1;
+ValeurCmp = Fiducial;
+IdModule  = BasestationFP:Fiducial;
+EndCmp
+
+BeginCmp
+TimeStamp = /5558A500;
+Reference = FID2;
+ValeurCmp = Fiducial;
+IdModule  = BasestationFP:Fiducial;
+EndCmp
+
+BeginCmp
+TimeStamp = /5558A579;
+Reference = FID3;
+ValeurCmp = Fiducial;
+IdModule  = BasestationFP:Fiducial;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5DF03;
+Reference = J1;
+ValeurCmp = RJ45-CON;
+IdModule  = BasestationFP:CON_RJ45_TRANSFO;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D724C9;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = BasestationFP:HOLE_FIX_HAMMOND;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D724E0;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = BasestationFP:HOLE_FIX_HAMMOND;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D724E6;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = BasestationFP:HOLE_FIX_HAMMOND;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D724EC;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = BasestationFP:HOLE_FIX_HAMMOND;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D6529D;
+Reference = Q1;
+ValeurCmp = MOS_N;
+IdModule  = BasestationFP:SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D623F8;
+Reference = R1;
+ValeurCmp = 22;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D62403;
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D63EB2;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D63F9A;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D681D3;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D72B87;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7275B;
+Reference = R7;
+ValeurCmp = 22;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5BEFE;
+Reference = R8;
+ValeurCmp = 1M;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5DED2;
+Reference = R9;
+ValeurCmp = 12k;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5F8A3;
+Reference = R10;
+ValeurCmp = 10k;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5DF34;
+Reference = R11;
+ValeurCmp = 1k;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7BEF1;
+Reference = R12;
+ValeurCmp = 10k;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5E1D3;
+Reference = R13;
+ValeurCmp = 1k;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5E1C3;
+Reference = R14;
+ValeurCmp = 1k;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D72E91;
+Reference = R15;
+ValeurCmp = 300;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CFB75;
+Reference = R16;
+ValeurCmp = 22;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CD335;
+Reference = R17;
+ValeurCmp = 50;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CD340;
+Reference = R18;
+ValeurCmp = 50;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CD346;
+Reference = R19;
+ValeurCmp = 50;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /522CD34C;
+Reference = R20;
+ValeurCmp = 50;
+IdModule  = BasestationFP:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5397700B;
+Reference = R21;
+ValeurCmp = 10k;
+IdModule  = BasestationFP:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53977005;
+Reference = R22;
+ValeurCmp = 10k;
+IdModule  = BasestationFP:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /538D9F73;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = BasestationFP:SWITCH_FSM16JH;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D78614;
+Reference = U1;
+ValeurCmp = AP7333-33SAG-7;
+IdModule  = BasestationFP:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D61B3F;
+Reference = U2;
+ValeurCmp = ATMEGA32U4;
+IdModule  = BasestationFP:TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5DDCE;
+Reference = U3;
+ValeurCmp = W5100;
+IdModule  = BasestationFP:LQFP80;
+EndCmp
+
+BeginCmp
+TimeStamp = /5397542E;
+Reference = U4;
+ValeurCmp = RX2004A_BIW;
+IdModule  = BasestationFP:LCD_RX200A-BIW;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D79ABD;
+Reference = U5;
+ValeurCmp = NRF24L01;
+IdModule  = BasestationFP:NRF24L01;
+EndCmp
+
+BeginCmp
+TimeStamp = /55571CE5;
+Reference = U6;
+ValeurCmp = 24AA02E48T-I/OT;
+IdModule  = BasestationFP:SOT-23-5_24AA02E48T;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D636DB;
+Reference = X1;
+ValeurCmp = 8MHz;
+IdModule  = BasestationFP:HC49US;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D5BF0D;
+Reference = X2;
+ValeurCmp = 25MHz;
+IdModule  = BasestationFP:HC49US;
+EndCmp
+
+EndListe

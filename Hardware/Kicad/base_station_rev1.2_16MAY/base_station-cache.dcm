@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24AA02E48T-I/OT
+D 2K I2C EEPROM with MAC
+$ENDCMP
+#
+$CMP RX2004A_BIW
+D Raystar RX2004A_BIW 16x4 Character LCD
+K Raystar RX2004A_BIW 16x4 Character LCD
+$ENDCMP
+#
+#End Doc Library
