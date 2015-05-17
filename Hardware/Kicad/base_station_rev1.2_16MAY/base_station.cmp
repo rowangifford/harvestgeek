@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 16/05/2015 14:40:14
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 17/05/2015 12:01:36
 
 BeginCmp
 TimeStamp = /51D7862B;
@@ -529,14 +529,14 @@ BeginCmp
 TimeStamp = /5397700B;
 Reference = R21;
 ValeurCmp = 10k;
-IdModule  = BasestationFP:SM0603;
+IdModule  = BasestationFP:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /53977005;
 Reference = R22;
 ValeurCmp = 10k;
-IdModule  = BasestationFP:SM0603;
+IdModule  = BasestationFP:SM0603_Resistor;
 EndCmp
 
 BeginCmp
