@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Sensor)(type KiCad)(uri ${KIPRJMOD}/sensor_footprints.pretty)(options "")(descr ""))
+)
