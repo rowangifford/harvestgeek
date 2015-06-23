@@ -1,0 +1,12 @@
+### Module positions - created on 16/06/2015 17:42:43 ###
+### Printed by Pcbnew version kicad (2015-01-16 BZR 5376)-product
+## Unit = mm, Angle = deg.
+## Side : F.Cu
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+Fiducial FID1             Fiducial            0.0000     0.0000       0.0    F.Cu
+Fiducial FID1             Fiducial          -18.0000     0.0000       0.0    F.Cu
+Fiducial FID1             Fiducial            0.0000   -18.0000       0.0    F.Cu
+Q1       MMBT2222ALT3G    SOT23              -2.0000   -14.0000     270.0    F.Cu
+R1       100R             SM0603_Resistor    -5.5000   -16.0000       0.0    F.Cu
+R2       100R             SM0603_Resistor    -5.5000   -13.0000       0.0    F.Cu
+## End

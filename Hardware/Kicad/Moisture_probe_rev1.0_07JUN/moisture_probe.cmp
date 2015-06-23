@@ -1,0 +1,43 @@
+Cmp-Mod V01 Genere par PcbNew le 16/06/2015 13:04:45
+
+BeginCmp
+TimeStamp = 557FF51D
+Path = /55747EA5
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = Moisture:CON_3_weidmuller;
+EndCmp
+
+BeginCmp
+TimeStamp = 557FF529
+Path = /55747EFE
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Moisture:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 557FF535
+Path = /55747F2B
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Moisture:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 557FF8CC
+Path = /557FF2E8
+Reference = P1;
+ValeurCmp = CONN_01X01;
+IdModule  = Moisture:probe;
+EndCmp
+
+BeginCmp
+TimeStamp = 55800D2B
+Path = /557FF340
+Reference = P2;
+ValeurCmp = CONN_01X01;
+IdModule  = Moisture:probe;
+EndCmp
+
+EndListe

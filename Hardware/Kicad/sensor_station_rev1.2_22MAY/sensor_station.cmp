@@ -1,143 +1,164 @@
-Cmp-Mod V01 Created by CvPcb (2013-05-31 BZR 4019)-stable date = 25/10/2013 22:14:25
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 20/06/2015 13:53:08
 
 BeginCmp
 TimeStamp = /51D7862B;
 Reference = C1;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D78631;
 Reference = C2;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D6D56B;
 Reference = C3;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D6D577;
 Reference = C4;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D6D57D;
 Reference = C5;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D6D583;
 Reference = C6;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D6351E;
 Reference = C7;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D6CD22;
 Reference = C8;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D63A4C;
 Reference = C9;
 ValeurCmp = 18pF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D63A52;
 Reference = C10;
 ValeurCmp = 18pF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D73008;
 Reference = C11;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D732CB;
 Reference = C12;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D726B0;
 Reference = C13;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D71161;
 Reference = C14;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D7115B;
 Reference = C15;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D71648;
 Reference = C16;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D71147;
 Reference = C17;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /558321D2;
+Reference = C18;
+ValeurCmp = 100nF;
+IdModule  = Sensor:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /55831E71;
+Reference = C19;
+ValeurCmp = 1uF;
+IdModule  = Sensor:SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /558312D3;
+Reference = C20;
+ValeurCmp = 1uF;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D79AD6;
 Reference = C33;
 ValeurCmp = 100nF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D79ADC;
 Reference = C36;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D7E03A;
 Reference = C39;
 ValeurCmp = 1uF;
-IdModule  = SM0603_Capa;
+IdModule  = Sensor:SM0603_Capa;
 EndCmp
 
 BeginCmp
@@ -158,7 +179,7 @@ BeginCmp
 TimeStamp = /51D891E0;
 Reference = D1;
 ValeurCmp = LED_BICOLOUR;
-IdModule  = LED_BIC_LST;
+IdModule  = Sensor:LED_BIC_LST;
 EndCmp
 
 BeginCmp
@@ -172,7 +193,7 @@ BeginCmp
 TimeStamp = /51D70FF6;
 Reference = K1;
 ValeurCmp = CONN_3;
-IdModule  = CON_3_weidmuller;
+IdModule  = Sensor:CON_3_weidmuller;
 EndCmp
 
 BeginCmp
@@ -214,91 +235,105 @@ BeginCmp
 TimeStamp = /51D623F8;
 Reference = R1;
 ValeurCmp = 22;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D62403;
 Reference = R2;
 ValeurCmp = 22;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D63EB2;
 Reference = R3;
 ValeurCmp = 10k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D63F9A;
 Reference = R4;
 ValeurCmp = 10k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D72BE8;
 Reference = R5;
 ValeurCmp = 1k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D71E8E;
 Reference = R6;
 ValeurCmp = 1k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D71E99;
 Reference = R7;
 ValeurCmp = 1k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D7231D;
 Reference = R8;
 ValeurCmp = 1k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D708B0;
 Reference = R9;
 ValeurCmp = 10k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D70E03;
 Reference = R10;
 ValeurCmp = 10k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D893AD;
 Reference = R11;
 ValeurCmp = 1k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D7BEF1;
 Reference = R12;
 ValeurCmp = 10k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
 TimeStamp = /51D893B3;
 Reference = R13;
 ValeurCmp = 1k;
-IdModule  = SM0603_Resistor;
+IdModule  = Sensor:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5582FB02;
+Reference = R14;
+ValeurCmp = 10k;
+IdModule  = Sensor:SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5582FB7D;
+Reference = R15;
+ValeurCmp = 10k;
+IdModule  = Sensor:SM0603_Resistor;
 EndCmp
 
 BeginCmp
@@ -312,7 +347,7 @@ BeginCmp
 TimeStamp = /51D78614;
 Reference = U1;
 ValeurCmp = AP7333-33SAG-7;
-IdModule  = SOT23;
+IdModule  = Sensor:SOT23;
 EndCmp
 
 BeginCmp
@@ -348,6 +383,13 @@ TimeStamp = /51D7089D;
 Reference = U6;
 ValeurCmp = DHT22;
 IdModule  = DHT22;
+EndCmp
+
+BeginCmp
+TimeStamp = /5582F505;
+Reference = U7;
+ValeurCmp = AP22802AW5-7;
+IdModule  = Sensor:AP22802AW5-7;
 EndCmp
 
 BeginCmp
